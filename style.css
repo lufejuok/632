@@ -6,6 +6,7 @@ html {
 }
 
 body {
+  
   overflow: hidden;
   height: 100%;
   width: 100%;
@@ -195,4 +196,17 @@ ul {
 
 .hList > * + * {
   margin-left: 0;
+}
+
+h2{
+    color: #183f85;
+}
+h3{
+    color: #183f85;
+}
+
+.box{
+    padding: 5%;
+    display: block;
+
 }
