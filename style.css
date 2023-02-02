@@ -2,7 +2,7 @@
 
 html {
   height: 100%;
-  background-color: #ffffff;
+ 
 }
 
 body {
@@ -40,7 +40,7 @@ ul {
 
 .menu-title {
   display: block;
-  width: 350px;
+  width: 320px;
   height: 40px;
   padding: 12px 0 0;
   background: #183f85;
@@ -186,7 +186,7 @@ ul {
 }
 
 .hList {
-  //overflow: hidden;
+ /* overflow: hidden;*/
 }
 
 .hList > * {
@@ -206,7 +206,7 @@ h3{
 
 .box{
     padding: 5%;
-    display: block;
+    display: inline-block;
 
 }
 p{
@@ -260,3 +260,17 @@ p{
     display: block;
   }
   
+  .banner-footer{
+    display: inline-flex;
+    justify-content: center;
+    width:100% ;
+   
+  }
+    
+  .banner-fotos{
+    display: inline-flex;
+    justify-content: center;
+    width:100% ;
+   
+  }
+
