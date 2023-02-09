@@ -33,9 +33,12 @@ ul {
 
 
 .menu {
+  
   display: block;
-  position: relative;
+  position:relative;
+  justify-content: center;
   cursor: pointer;
+
 }
 
 .menu-title {
