@@ -6,7 +6,6 @@ html {
 }
 
 body {
-  
   overflow: scroll;
   height: 100%;
   width: 100%;
@@ -202,10 +201,10 @@ ul {
 
 h2{
     color: #183f85;
-}
+   }
 h3{
     color: #183f85;
-}
+ }
 
 .box{
     padding: 5%;
@@ -280,10 +279,8 @@ p{
   b{
     color:#1b3f85;
   }
+  
 
-  .contenidos{
-    background-color: #451616;
-    border-radius: 10px;
-    border: #14326c;
-    border:solid
-  }
+
+
+  
