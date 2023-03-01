@@ -4,59 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <title>Ingenia</title>
 </head>
 <body>
-    <header>
-        <div class="banner-logo"> 
-            <img src="img/Logo.png">
-        </div>
-        <ul class="hList">
-            <li>
-              <a href="index.html" class="menu">
-                <h2 class="menu-title">INICIO</h2>
-                <ul class="menu-dropdown">
-                    <li>info del proyecto</li>
-                  
-                  </ul>
-            </li>
-            <li>
-              <a href="capacidadescteidocentes.html" class="menu">
-                <h2 class="menu-title menu-title_2nd">CAPACIDADES CTeI EN DOCENTES</h2>
-                <ul class="menu-dropdown">
-                  <li>  Mapeo de Saberes</li>
-                  <li>  Perspectiva de género y generación</li>
-                  <li>  Metodologías activas</li>
-                  <li>  Ciencia, tecnologia e innovacion.</li>
-                  <li>  Ambientes educativos diferenciales</li>
-                </ul>
-              </a>
-            </li>
-            <li>
-              <a href="#click" class="menu">
-                <h2 class="menu-title menu-title_3rd">AMBIENTES EDUCATIVOS NNJ</h2>
-                <ul class="menu-dropdown">
-                  <li>Espacio virtual interactívo.</li>
-                  <li>Capsulas de Youtube</li>
-                  <li>Libro</li>
-                </ul>
-              </a>
-            </li>
-            <li>
-              <a href="#click" class="menu">
-                <h2 class="menu-title menu-title_4th">ENTORNOS ESCOLARES DIGITALES</h2>
-                <ul class="menu-dropdown">
-                  <li>Laboratorio de aprendizaje combinado</li>
-                  <li>Ejercicios creativos con NNJ (podcast y fanzines)</li>
-                </ul>
-              </a>
-            </li>
-        </ul>  
-          
-
-    </header>
+  <?php require("./layout/header.php")?>
     <body>
         <section>
             <div class="box">
@@ -68,18 +21,7 @@
                   </div>
                 
 
-                  <!--Detalles curso 1-->
-                  <div  style=" margin:2%; background-color: rgb(239, 240, 252); padding:2%" class="contenidos"> <!--Detalles curso 1-->
-                    <nav>
-                      <h3>  <a href="mapeosaberes.html"> <h4>Descripción del curso</h4> </a></h3>
-                      <h3> Contenido Unidad 1 </h3>
-                        <ul>
-                          <li><a href="unidad1_lecc1.html"> <h4>Lección 1 - Introducción</h4> </a></li>
-                          <li><a href="unidad1_lecc2.html"> <h4>Lección 2 - Interacción en espacio de Mapeo de saberes</h4> </a></li>
-                          
-                        </ul>
-                    </nav>
-                  </div>
+                  <?php require("./mapeo_contenido_1.php")?>
                    
                     <!--Intro curso 1-->
                     <h2><bold>Unidad 1 - Lección 1 - Introducción</bold></h2>                    
@@ -105,13 +47,7 @@
             </div>
         </section>           
     </body>
-    <footer>
-      <section>
-        <div class="banner-footer"> 
-            <img style="justify-content: center; width:70% ;" src="img/franja logos P632_1920x326px.jpg">
-        </div>
-      </section>
-    </footer>
+    <?php require("./layout/footer.php")?>
     
     
 </body>
