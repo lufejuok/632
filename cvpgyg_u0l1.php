@@ -20,10 +20,7 @@
                 <div class="box1">
 
                            <?php require("./perspectivagyg_contenido.php")?>
-                    <!--Intro curso 1-->
-                    <?php require("./perspectivagyg_contenido.php")?>
-
-
+ 
                     <h2><bold>Unidad 0 - Lección 01 - Bienvenida y presentación del curso de Género y Generación</bold></h2>                    
                   
                     <h3>INTRODUCCIÓN</h3> 

@@ -28,13 +28,13 @@
                         <a href="perspectivagyg.php"><img class="galeria"  src="img/PGG_500x500px_02.jpg"></a>
                       </div>
                       <div class="column" id="cv">
-                        <img class="galeria" src="img/portada MA_500x500px.jpg">
+                      <a href="metodologias_activas.php"> <img class="galeria" src="img/portada MA_500x500px.jpg">
                       </div>
                       <div class="column" id="cv">
-                        <img class="galeria" src="img/portada CTeI_500x500px.jpg">
+                      <a href="ctei.php">  <img class="galeria" src="img/portada CTeI_500x500px.jpg">
                       </div>
                       <div class="column" id="cv">
-                        <img class="galeria" src="img/portada AED_500x500px.jpg">
+                      <a href="ambienteseducativosd.php">  <img class="galeria" src="img/portada AED_500x500px.jpg">
                       </div>
                     </div>
                 </div> 

@@ -12,7 +12,7 @@ body {
   margin: 0 auto;
   font-family: 'Roboto', sans-serif;
   color: #555555;
-  font-size: small;
+  font-size: medium;
 }
 
 a {
@@ -205,6 +205,9 @@ h2{
 h3{
     color: #183f85;
  }
+ h4{
+  color: #183f85;
+}
 
 .box{
     padding: 5%;
@@ -213,6 +216,7 @@ h3{
 }
 p{
     font-size: medium;
+    
 }
 
 

@@ -26,10 +26,16 @@
 
                     <p>Te invitamos a observar el siguiente video, en el cual un estudiante participante del proyecto CTeI comparte su visión sobre la perspectiva de género y generación en contextos escolares desde su experiencia personal y como una apuesta para motivar a las y los docentes en la transversalización de sus planes de área y en su ejercicio pedagógico. <br><br>
                       <h3>Video:</h3><p>Unidad 1 - Lección 2. - Curso Genero y Generación. NICOLAS IE SANTA ELENA</p>
-                      <h3>Canal:</h3><p> Fortalecimiento CTeI para la innovación educativa Link: https://youtu.be/GQe0C465W-o</p> 
+                      <h3>Canal:</h3><p> Fortalecimiento CTeI para la innovación educativa Link - https://youtu.be/GQe0C465W-o</p> 
+                       
+                      
+                      <div style="text-align:center;">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/GQe0C465W-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+
                      
-                      <p>Participa en el foro con la siguiente pregunta  <br>¿Cuáles capacidades podemos fortalecer en los ambientes escolares para enfrentar los desafíos derivados de la Covid 19 con base en la perspectiva de género y generación? <br></p>
-                      </p>                           
+                    <p>Participa en el foro con la siguiente pregunta:  <br>¿Cuáles capacidades podemos fortalecer en los ambientes escolares para enfrentar los desafíos derivados de la Covid 19 con base en la perspectiva de género y generación? <br></p>
+                      </p> 
                 </div>
         </section>           
     </body>

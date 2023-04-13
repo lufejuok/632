@@ -24,7 +24,7 @@
               </a>
             </li>
             <li>
-              <a href="#click" class="menu">
+              <a href="ambienteseducativosnnj.php" class="menu">
                 <h2 class="menu-title menu-title_3rd">AMBIENTES EDUCATIVOS NNJ</h2>
                 <ul class="menu-dropdown">
                   <li>Espacio virtual interactívo.</li>
